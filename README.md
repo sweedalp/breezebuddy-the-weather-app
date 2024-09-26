@@ -1,3 +1,4 @@
+![Screenshot (261)](https://github.com/user-attachments/assets/90c87517-63ed-4ee9-b30f-a23e0cf84746)
 Here's a README file for your Breeze Buddy weather application:
 
 ---
